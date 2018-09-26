@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "268671898937",
+    "firebase_url": "https://biorhythmgraphs.firebaseio.com",
+    "project_id": "biorhythmgraphs",
+    "storage_bucket": "biorhythmgraphs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268671898937:android:ae24a4c3f6bf43cf",
+        "android_client_info": {
+          "package_name": "com.melih.biorhythmgraphs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268671898937-9ksad9bj10pljc2g66v1pljlfme5tt2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.melih.biorhythmgraphs",
+            "certificate_hash": "f82e3acb873640eb8d4a97b706965e5a8f5ed93c"
+          }
+        },
+        {
+          "client_id": "268671898937-o3roudghh6o4eh30mssp3afn6clr4a2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvVasO_sxVMUzp2eIFtNK3XB3KldZuqlo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268671898937-o3roudghh6o4eh30mssp3afn6clr4a2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
