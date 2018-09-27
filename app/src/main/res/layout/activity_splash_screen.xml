@@ -28,6 +28,8 @@
         android:layout_marginBottom="147dp"
         android:fontFamily="@font/latoregular2"
         android:text="Life Rhythm"
+        android:textAlignment="center"
+        android:textAllCaps="false"
         android:textColor="@android:color/white"
         android:textSize="60sp" />
 
