@@ -29,6 +29,7 @@
         android:fontFamily="@font/latoregular2"
         android:text="Life Rhythm"
         android:textColor="@android:color/white"
-        android:textSize="60sp" />
+        android:textSize="60sp"
+        android:textStyle="normal|italic" />
 
 </RelativeLayout>
